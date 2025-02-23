@@ -21,7 +21,7 @@ Desenvolvedor Frontend & Mobile | Apaixonado por tecnologia, inovação e criaç
   </a>
 </div>
 
-🚀 Sempre aberto a novos desafios e conexões estratégicas. Vamos construir algo incrível juntos!
+🚀 Sempre aberto a novos desafios e conexões estratégicas. Vamos construir algo incrível juntos. Não seja tímido! Entre em contato 👇
 
 <p align="left">
   <a href="#" title="Gmail">
@@ -30,3 +30,7 @@ Desenvolvedor Frontend & Mobile | Apaixonado por tecnologia, inovação e criaç
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
   <a href="linkedin.com/in/ldrigues" title="WhatsApp">
 </p>
+
+The World is who and what you know.
+
+🙋‍♂️ Portfolio: https://ldvndev-port.netlify.app/
