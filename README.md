@@ -23,13 +23,8 @@ Desenvolvedor Frontend & Mobile | Apaixonado por tecnologia, inovação e criaç
 
 🚀 Sempre aberto a novos desafios e conexões estratégicas. Vamos construir algo incrível juntos. Não seja tímido! Entre em contato 👇
 
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="https://mail.google.com/mail/u/3/#inbox" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="linkedin.com/in/ldrigues" title="WhatsApp">
-</p>
+[![Gmail Badge](https://img.shields.io/badge/-ldrigues.dev@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ldrigues.dev@gmail.com)](mailto:ldrigues.dev@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Leonardo%20Rodrigues-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ldrigues/)](https://www.linkedin.com/in/ldrigues/)
 
 The World is who and what you know.
 
