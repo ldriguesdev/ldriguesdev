@@ -21,11 +21,11 @@ Frontend & Mobile Developer | Passionate about technology, innovation, and creat
   </a>
 </div>
 
-🚀 Always open to new challenges and strategic connections. Let's build something amazing together. Don't be shy! Get in touch.👇
+Always open to new challenges and strategic connections. Let's build something amazing together. Don't be shy! Get in touch.👇
 
 [![Gmail Badge](https://img.shields.io/badge/-ldrigues.dev@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ldrigues.dev@gmail.com)](mailto:ldrigues.dev@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Leonardo%20Rodrigues-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ldrigues/)](https://www.linkedin.com/in/ldrigues/)
 
-The World is who and what you know.
+🚀 The World is who and what you know.
 
 🙋‍♂️ Portfolio: https://ldvndev-port.netlify.app/
